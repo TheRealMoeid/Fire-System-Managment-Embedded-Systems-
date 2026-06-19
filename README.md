@@ -50,7 +50,7 @@ This project was developed as part of an **Introduction to Embedded Systems** co
 
 - STM32CubeIDE / Keil / PlatformIO
 - STM32 HAL / LL Drivers
-- C programming language
+- C/C++ programming language
 - Git & GitHub for version control
 
 ---
