@@ -1,0 +1,16 @@
+# Visual Studio cache
+.vs/
+
+# Build outputs
+Debug/
+Release/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+
+# Logs
+*.log
